@@ -1,0 +1,14 @@
+name: 'Knowledge Sytem'
+type: module
+description: 'Provides platform to add courses and resgister courses'
+package: HR
+# version: VERSION
+# core: 8.x
+dependencies:
+  - user
+
+
+version: '8.2.3'
+core: '8.x'
+project: 'KS'
+
