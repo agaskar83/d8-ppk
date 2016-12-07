@@ -1,0 +1,10 @@
+## YAML Template.
+---
+ks.content:
+    path: '/ks'
+    defualts: 
+        _controller: '\Drupal\ks\Controller\KsController.php::content'
+        _title: 'Knowledge system portal'
+    requirement:    
+        _premission: 'access content'
+           

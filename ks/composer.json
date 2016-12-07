@@ -1,0 +1,6 @@
+{
+    "name": "Knowledge system module",
+    "description": "install dependency for KS module.",
+    "type": "drupal-module",
+    "license": "GPL-2.0+"
+}
