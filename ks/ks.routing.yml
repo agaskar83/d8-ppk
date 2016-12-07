@@ -2,9 +2,9 @@
 ---
 ks.content:
     path: '/ks'
-    defualts: 
-        _controller: '\Drupal\ks\Controller\KsController.php::content'
+    defaults: 
+        _controller: '\Drupal\ks\Controller\KsController::content'
         _title: 'Knowledge system portal'
-    requirement:    
-        _premission: 'access content'
+    requirements:    
+        _permission: 'access content'
            
