@@ -1,0 +1,8 @@
+## YAML Template.
+---
+ks.admin:
+    title: 'Knowledge portal admin configuration'
+    description: 'This is to configure Employee knowledge portal'
+    parent: system.admin_config_development
+    route_name: ks.content
+    weight: 200
