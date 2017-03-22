@@ -1,4 +1,4 @@
-<?php
+    <?php
 
 /* 
  * To change this license header, choose License Headers in Project Properties.
@@ -24,7 +24,7 @@ class KsBlock extends BlockBase {
    */
   public function build() {
     return array(
-      '#markup' => $this->t('KS block!'),
+      '#markup' => $this->t('KS block!')
     );
   }
 }
