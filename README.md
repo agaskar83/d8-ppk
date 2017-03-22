@@ -3,7 +3,7 @@ test project to learn D8
 
 Group2: Hirdesh, Axay and Nadeem  ----  D8 ppk
 	- knowledge system
-		Create new course
+		Create new course    ----- Nadeem
 			id
 			name
 			duration
@@ -12,16 +12,16 @@ Group2: Hirdesh, Axay and Nadeem  ----  D8 ppk
 			start date
 			end date
 			
-		category
+		category  ----- -------- Axay
 			category id
 			title
 		
-		block
+		block   ----------------------- hirdesh
 			name of the course 
 		
 		List
 		block per category
-		menu
+		menu			----- Hirdesh
 			list (edit)
 			create
 			search
